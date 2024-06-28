@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "elm-land (root)"
+    },
+    {
+      "path": "./projects/cli",
+      "name": "Project: CLI"
+    },
+    {
+      "path": "./projects/graphql",
+      "name": "Project: GraphQL"
+    },
+    {
+      "path": "./projects/tooling",
+      "name": "Project: Tooling"
+    }
+  ],
+  "settings": {}
+}
